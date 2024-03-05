@@ -1,6 +1,6 @@
 ## Hi there, I'm Mario Aroca Páez! 👋
 
-### 🚀 Aspiring Software Developer | Final Year Student | Seeking Entry-Level Opportunities
+### 🚀 Aspiring Software Developer | Final Year Student 
 
 I'm a final year Software Engineering student at the Universidad De Sevilla, currently diving deep into the realms of coding and technology. With a robust academic background and hands-on experience gained through the Erasmus Programme at the Institut Supérieur D'Électronique de Paris, I am well-equipped with a diverse skill set and ready to take on the tech world.
 
