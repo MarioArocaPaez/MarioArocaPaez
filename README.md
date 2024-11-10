@@ -1,7 +1,7 @@
 ## Hi there, I'm Mario Aroca Páez! 👋
 
 # 💫 About Me:
-🔭 I’m currently working on a Django-based web application designed to help Instagram users manage their follower relationships<br>👯 I’m looking to collaborate on any open source project<br>💬 Ask me about anything Tech related<br>⚡ Quick fact, I studied Software Engineering at Universidad de Sevilla and Institut supérieur d'électronique de Paris
+🔭 I’m currently working on Telefónica<br>👯 I’m looking to collaborate on any open source project<br>💬 Ask me about anything Tech related<br>⚡ Quick fact, I studied Software Engineering at Universidad de Sevilla and Institut supérieur d'électronique de Paris
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marioaroca) 
