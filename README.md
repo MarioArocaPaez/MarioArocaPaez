@@ -1,7 +1,7 @@
 ## Hi there, I'm Mario Aroca Páez! 👋
 
 # 💫 About Me:
-🔭 I’m currently working at [Telefónica](https://github.com/telefonica) as RPA Developer intern<br>👯 I’m looking to collaborate on any open source project<br>💬 Ask me about anything Tech related<br>⚡ I studied Software Engineering at Universidad de Sevilla and Institut supérieur d'électronique de Paris<br> :books: Currently studying for a Master's degree in Data Science at Universitat Oberta de Catalunya (UOC)
+🔭 I’m currently working at [Telefónica](https://github.com/telefonica) as RPA Developer intern<br>👯 I’m looking to collaborate on any open source project<br>⚡ I studied Software Engineering at Universidad de Sevilla and Institut supérieur d'électronique de Paris<br> :books: Currently studying for a Master's degree in Data Science at Universitat Oberta de Catalunya (UOC)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marioaroca) 
